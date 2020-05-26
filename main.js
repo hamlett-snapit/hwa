@@ -2,4 +2,4 @@
 document.getElementById("word").innerHTML = "Hello World !"
 
 // Shown below is a copy of the line above with a different id. Be sure to place a matching placeholder in your HTML page
-document.getElementById("word2").innerHTML = "Ramone H"
+document.getElementById("word2").innerHTML = "JavaScript"
